@@ -61,7 +61,12 @@ Download the APK file from the [Releases](https://github.com/yourusername/dnotes
 
 ## Screenshots
 
-<img class="image-align-left" src="... screenshots/screenshot1.png"/><img class="image-align-left" src="...screenshots/screenshot2.png"/>
+<p float="left">
+  <img src="screenshots/screenshot1.png" width="100" />
+  <img src="screenshots/screenshot2.png" width="100" /> 
+  <img src="screenshots/screenshot3.png" width="100" />
+  <img src="screenshots/screenshot3.png" width="100" />
+</p>
 
 ## License
 
