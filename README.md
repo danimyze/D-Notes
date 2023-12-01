@@ -1,4 +1,4 @@
-#DNotes - Simple Note-Taking App
+# DNotes - Simple Note-Taking App
 
 DNotes is a straightforward note-taking app designed to help you jot down and manage your thoughts effortlessly. Whether you need to capture quick ideas or draft important notes.
 
