@@ -26,12 +26,6 @@ DNotes is a straightforward note-taking app designed to help you jot down and ma
 8. **Database Integration:**
    - Utilize Room database for efficient note storage.
 
-9. **Floating Action Button for Adding Notes:**
-   - Access the "Add Note" functionality with a convenient floating action button.
-
-10. **Back Button Support:**
-    - Navigate back using the device's back button.
-
 ## How to Use
 
 1. **Create a Note:**
@@ -51,9 +45,6 @@ DNotes is a straightforward note-taking app designed to help you jot down and ma
 
 5. **Auto-Save:**
    - Your notes are automatically saved as you type.
-
-6. **Tooltip:**
-   - A tooltip appears automatically for 5 seconds after app launch, providing a quick guide.
 
 ## Installation
 
